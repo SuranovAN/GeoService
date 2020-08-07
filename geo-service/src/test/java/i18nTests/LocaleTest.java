@@ -14,7 +14,7 @@ import ru.netology.sender.MessageSenderImpl;
 
 import java.util.HashMap;
 
-public class LocaleTests {
+public class LocaleTest {
     private static long startTests;
     private long startTestTime;
 
